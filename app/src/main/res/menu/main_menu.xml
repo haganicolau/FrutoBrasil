@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:id="@+id/explorar_mapa"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Explorar Mapa" />
+
+    <item
+        android:id="@+id/lista_itens"
+        android:title="Lista Itens"
+        />
+
+    <item
+        android:id="@+id/abrir_chamado"
+        android:title="Abrir Chamado"
+        />
+
+    <item
+        android:id="@+id/fazer_pergunta"
+        android:title="Fazer Perguntas"
+        />
+
+    <item
+        android:id="@+id/forum"
+        android:title="Fórum"
+        />
+
+    <item
+        android:id="@+id/cadastrar_novo_item"
+        android:title="Cadastrar Novo Ítem"
+        />
+
+    <item
+        android:id="@+id/compartilhar_rede_social"
+        android:title="Redes Sociais"
+        />
+
+    <item
+        android:id="@+id/dados_adastrais"
+        android:title="Dados Cadastrais"
+        />
+</menu>

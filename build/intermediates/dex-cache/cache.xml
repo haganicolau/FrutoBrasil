@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="270fa2338a7859bd0a1ae06d274385270eaa2a1a">
+        <dex dex="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c06fb6917976d8f5c3e0dcba679331b26665e2ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haganicolau/.android/build-cache/b33bed8c8cfca4646a9d0664780493d3cd11870e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b51c847f937fea36719ecbd6f3335e4c7ee58a69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22c776d2e144f77d774f19cef1ee92ba27e7e938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haganicolau/.android/build-cache/c9b6c3832ddc59383bc30ba4aa4e4aef0f772930/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d3bed628e320ea9e42d161b67b8ad755006b926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/haganicolau/.android/build-cache/267971ba2a4206bd9bb3723bee1a5cfcd5286bf1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/haganicolau/AndroidStudioProjects/FrutoBrasil/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e3a8cfcbf3a08db96b481d11ce7da61d8f62715/classes.dex" />
+    </item>
+
+</items>
